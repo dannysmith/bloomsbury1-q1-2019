@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="91px" height="55px" viewBox="0 0 91 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>add</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="empathy-map-resource" transform="translate(-95.000000, -624.000000)">
-            <g id="add" transform="translate(95.000000, 624.000000)">
-                <text id="Add-to-“My-files”" font-family="Helvetica" font-size="12" font-weight="normal" fill="#3B3F3E">
-                    <tspan x="0" y="50.5">Add to “My files”</tspan>
-                </text>
-                <path d="M31.7777778,17.7777778 L44.2222222,17.7777778 L44.2222222,30.2222222 C44.2222222,31.2035556 45.0186667,32 46,32 C46.9813333,32 47.7777778,31.2035556 47.7777778,30.2222222 L47.7777778,17.7777778 L60.2222222,17.7777778 C61.2035556,17.7777778 62,16.9813333 62,16 C62,15.0186667 61.2035556,14.2222222 60.2222222,14.2222222 L47.7777778,14.2222222 L47.7777778,1.77777778 C47.7777778,0.796444444 46.9813333,0 46,0 C45.0186667,0 44.2222222,0.796444444 44.2222222,1.77777778 L44.2222222,14.2222222 L31.7777778,14.2222222 C30.7964444,14.2222222 30,15.0186667 30,16 C30,16.9813333 30.7964444,17.7777778 31.7777778,17.7777778 Z" id="Path" fill="#01ADB5"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="55" version="1.1" viewBox="0 0 91 55"><title>add</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="empathy-map-resource" transform="translate(-95.000000, -624.000000)"><g id="add" transform="translate(95.000000, 624.000000)"><text id="Add-to-“My-files”" fill="#3B3F3E" font-family="Helvetica" font-size="12" font-weight="normal"><tspan x="0" y="50.5">Add to “My files”</tspan></text><path id="Path" fill="#01ADB5" d="M31.7777778,17.7777778 L44.2222222,17.7777778 L44.2222222,30.2222222 C44.2222222,31.2035556 45.0186667,32 46,32 C46.9813333,32 47.7777778,31.2035556 47.7777778,30.2222222 L47.7777778,17.7777778 L60.2222222,17.7777778 C61.2035556,17.7777778 62,16.9813333 62,16 C62,15.0186667 61.2035556,14.2222222 60.2222222,14.2222222 L47.7777778,14.2222222 L47.7777778,1.77777778 C47.7777778,0.796444444 46.9813333,0 46,0 C45.0186667,0 44.2222222,0.796444444 44.2222222,1.77777778 L44.2222222,14.2222222 L31.7777778,14.2222222 C30.7964444,14.2222222 30,15.0186667 30,16 C30,16.9813333 30.7964444,17.7777778 31.7777778,17.7777778 Z"/></g></g></g></svg>

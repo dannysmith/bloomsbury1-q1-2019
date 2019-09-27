@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="36px" viewBox="0 0 21 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>right arrow</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="empathy-map-resource" transform="translate(-362.000000, -363.000000)" fill="#01ADB5">
-            <g id="pic-box" transform="translate(26.000000, 292.276855)">
-                <g id="right-arrow" transform="translate(336.500000, 70.723145)">
-                    <path d="M0.885762946,35.0735179 C1.81193858,35.9996935 3.31756769,35.9996935 4.24374332,35.0735179 L19.6467565,19.6705046 C20.1122192,19.205042 20.3449505,18.5923412 20.3402009,17.98439 C20.3402009,17.3716892 20.1122192,16.763738 19.6467565,16.2982754 L4.24374332,0.895262183 C3.31756769,-0.0309134503 1.81193858,-0.0309134503 0.885762946,0.895262183 C-0.0404126875,1.82143782 -0.0404126875,3.32706692 0.885762946,4.25324256 L14.6169104,17.98439 L0.885762946,31.7155375 C-0.0404126875,32.6417131 -0.0404126875,34.1473422 0.885762946,35.0735179 Z" id="Path"></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="36" version="1.1" viewBox="0 0 21 36"><title>right arrow</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="empathy-map-resource" fill="#01ADB5" transform="translate(-362.000000, -363.000000)"><g id="pic-box" transform="translate(26.000000, 292.276855)"><g id="right-arrow" transform="translate(336.500000, 70.723145)"><path id="Path" d="M0.885762946,35.0735179 C1.81193858,35.9996935 3.31756769,35.9996935 4.24374332,35.0735179 L19.6467565,19.6705046 C20.1122192,19.205042 20.3449505,18.5923412 20.3402009,17.98439 C20.3402009,17.3716892 20.1122192,16.763738 19.6467565,16.2982754 L4.24374332,0.895262183 C3.31756769,-0.0309134503 1.81193858,-0.0309134503 0.885762946,0.895262183 C-0.0404126875,1.82143782 -0.0404126875,3.32706692 0.885762946,4.25324256 L14.6169104,17.98439 L0.885762946,31.7155375 C-0.0404126875,32.6417131 -0.0404126875,34.1473422 0.885762946,35.0735179 Z"/></g></g></g></g></svg>

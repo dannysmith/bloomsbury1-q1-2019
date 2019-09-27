@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="36px" viewBox="0 0 20 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>Path</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="empathy-map-resource" transform="translate(-26.000000, -363.000000)" fill="#01ADB5">
-            <g id="pic-box" transform="translate(26.000000, 292.276855)">
-                <g id="left-arrow" transform="translate(0.000000, 70.723145)">
-                    <path d="M0.7027711,19.3753421 L15.8966823,34.5692533 C16.8102847,35.4828557 18.2954743,35.4828557 19.2090767,34.5692533 C20.1226792,33.6556509 20.1226792,32.1704613 19.2090767,31.2568588 L5.66433507,17.7121172 L19.2090767,4.16737549 C20.1226792,3.25377306 20.1226792,1.76858347 19.2090767,0.854981036 C18.2954743,-0.0586213942 16.8102847,-0.0586213942 15.8966823,0.854981036 L0.7027711,16.0488922 C0.243627315,16.508036 0.0187405627,17.107734 0.0187405627,17.7121172 C0.0187405627,18.3165003 0.243627315,18.9161983 0.7027711,19.3753421 Z" id="Path"></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="36" version="1.1" viewBox="0 0 20 36"><title>Path</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="empathy-map-resource" fill="#01ADB5" transform="translate(-26.000000, -363.000000)"><g id="pic-box" transform="translate(26.000000, 292.276855)"><g id="left-arrow" transform="translate(0.000000, 70.723145)"><path id="Path" d="M0.7027711,19.3753421 L15.8966823,34.5692533 C16.8102847,35.4828557 18.2954743,35.4828557 19.2090767,34.5692533 C20.1226792,33.6556509 20.1226792,32.1704613 19.2090767,31.2568588 L5.66433507,17.7121172 L19.2090767,4.16737549 C20.1226792,3.25377306 20.1226792,1.76858347 19.2090767,0.854981036 C18.2954743,-0.0586213942 16.8102847,-0.0586213942 15.8966823,0.854981036 L0.7027711,16.0488922 C0.243627315,16.508036 0.0187405627,17.107734 0.0187405627,17.7121172 C0.0187405627,18.3165003 0.243627315,18.9161983 0.7027711,19.3753421 Z"/></g></g></g></g></svg>
